@@ -1,0 +1,2 @@
+let amigos = []
+document.getElementById
